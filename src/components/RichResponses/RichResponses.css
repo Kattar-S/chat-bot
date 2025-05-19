@@ -1,0 +1,36 @@
+.table-response {
+    margin: 12px 0;
+    overflow-x: auto;
+  }
+  
+  .table-response table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  
+  .table-response th {
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 8px 12px;
+    text-align: left;
+    font-weight: 600;
+  }
+  
+  .table-response td {
+    padding: 8px 12px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .list-response {
+    margin: 12px 0;
+  }
+  
+  .list-response ol,
+  .list-response ul {
+    margin: 0;
+    padding-left: 24px;
+  }
+  
+  .list-response li {
+    margin-bottom: 6px;
+  }
